@@ -44,4 +44,6 @@ Aplikasi menerapkan sistem validasi ketat untuk memastikan integritas data:
 ## 📸 Cara Menjalankan
 
 1.  Clone repository ini:
+
+## Link YT: https://youtu.be/StOQO1E41HI
     
